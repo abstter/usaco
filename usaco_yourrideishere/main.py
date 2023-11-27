@@ -1,5 +1,5 @@
 '''
-DATE: 8/21/23 4:30p.m
+DATE: 8/21/23
 ID: Abhiram Avasarala
 LANG: PYTHON3
 TASK: ride
