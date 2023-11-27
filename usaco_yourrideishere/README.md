@@ -8,18 +8,18 @@ Write a program which reads in the name of the comet and the name of the group a
 Examples:
 
 1.
-Input
-COMETQ
-HVNGAT
+Input\n
+COMETQ\n
+HVNGAT\n
 
-Output
-GO
+Output\n
+GO\n
 
 2.
-Input
-ABSTAR
-USACO
+Input\n
+ABSTAR\n
+USACO\n
 
-Output
+Output\n
 STAY
 
