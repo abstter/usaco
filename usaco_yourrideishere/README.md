@@ -7,11 +7,19 @@ Write a program which reads in the name of the comet and the name of the group a
 
 Examples:
 
-Input	Output
+1)
+Input
 COMETQ
 HVNGAT
+
+Output
 GO
+
+2)
+Input
 ABSTAR
-USACO 
+USACO
+
+Output
 STAY
 
