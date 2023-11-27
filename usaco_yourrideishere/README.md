@@ -9,17 +9,21 @@ Examples:
 
 1.
 Input
+-----
 COMETQ
 HVNGAT
 
 Output
+------
 GO
 
 2.
 Input
+-----
 ABSTAR
 USACO
 
 Output
+------
 STAY
 
